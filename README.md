@@ -73,12 +73,8 @@ Criação de variáveis derivadas: `recencia`, `meses_assinatura` e `receita_acu
 A estrutura de diretórios do projeto foi organizada da seguinte forma:
 ```
 ├── README.md
-├── data
-│   ├── processed
-│   └── raw
-├── notebooks
-├── reports
-│   └── figures
+├── notebook
+│   └── notebook/Módulo_3_ANÁLISE_UNIVARIADA_E_BIVARIADA_E_FRAMEWORKS.ipynb
 └── requirements.txt
 
 ```
