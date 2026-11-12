@@ -8,10 +8,6 @@ Este projeto visa **entender por que os clientes cancelam a assinatura de uma pl
 
 O notebook foi desenvolvido em Python (pandas, NumPy, Matplotlib e Seaborn) no Google Colab, como parte do Módulo 3 da pós-graduação.
 
-📄 [Veja o template da apresentação](https://github.com/profrenatabiaggi/template/blob/master/reports/figures/Template_Case.pptx)
-
-📄 [Veja o template do notebook](https://github.com/profrenatabiaggi/template/blob/master/notebooks/Case_Fraude.ipynb)
-
 ## 💼 Entendimento do Negócio
 
 Em negócios de assinatura, o churn corrói a receita recorrente e encarece o crescimento: adquirir um cliente novo custa mais do que manter um existente. Na base analisada (~5 mil clientes, extração em 31/01/2024), cerca de **30% dos clientes já cancelaram**. Entender quem cancela, quando e por quê permite priorizar ações de retenção, produto e marketing.
